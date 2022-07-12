@@ -2,7 +2,7 @@
 
 A CLI that encrypts and decrypts png, jpg, jpeg images to a gibberish image and provides you the key to unlock it later so that you have the complete control of your images.
 
-![GitHub package.json version](https://img.shields.io/github/package-json/v/geekHead-DD/cryptpic?style=for-the-badge)&nbsp;
+![GitHub package.json version](https://img.shields.io/github/package-json/v/srijon11421/hashsnap?style=for-the-badge)&nbsp;
 ![GitHub Repo stars](https://img.shields.io/github/stars/srijon11421/cryptpic?logo=github&style=for-the-badge)
 ![npm](https://img.shields.io/npm/dt/cryptpic?style=for-the-badge&logo=npm)
 
@@ -17,7 +17,7 @@ A CLI that encrypts and decrypts png, jpg, jpeg images to a gibberish image and 
 ## Installation
 
 ```sh
-npm i -g cryptpic
+npm i -g hashsnap
 ```
 
 ## Usage
@@ -58,13 +58,13 @@ Command
 ### For encrypting an image myImage.png to encryptedImage.png and saving the key to key.txt
 
 ```sh
-cryptpic -e pic.png -o cipher.png -p key.txt
+hashsnap -e pic.png -o cipher.png -p key.txt
 ```
 
 output
 
 ```sh
- cryptpic  v1.0.6 by geekHead-DD
+ hashsnap  v1.0.6 by srijon11421
 An image encryption node-js cli
 
 ✔ Image read successfully
@@ -86,13 +86,13 @@ An image encryption node-js cli
 ### For decrypting an image encryptedImage.png with its key key.txt to decryptedImage.png
 
 ```sh
-cryptpic -d cipher.png -k key.txt -i unlocked.png
+hashsnap -d cipher.png -k key.txt -i unlocked.png
 ```
 
 output
 
 ```sh
- cryptpic  v1.0.6 by srijon11421
+ hashsnap  v1.0.6 by srijon11421
 An image encryption node-js cli
 
 ✔ Image read successfully

@@ -50,7 +50,7 @@ const commands = {
 };
 
 const helpText = meowHelp({
-	name: `cryptpic`,
+	name: `hashsnap`,
 	flags,
 	commands
 });

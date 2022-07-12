@@ -5,8 +5,8 @@ const unhandled = require('cli-handle-unhandled');
 module.exports = ({ clear = true }) => {
 	unhandled();
 	welcome({
-		title: `cryptpic`,
-		tagLine: `by Debarghya Datta and Dhritesh Bhagat`,
+		title: `hashsnap`,
+		tagLine: `by Srijon Dutta Chowdhury`,
 		description: pkg.description,
 		version: pkg.version,
 		bgColor: '#36BB09',
