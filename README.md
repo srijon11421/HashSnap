@@ -80,7 +80,7 @@ An image encryption node-js cli
                                   Encrypted image: encryptedImageName.png
                                   Key: keyFile.txt
 
- Give it a star on github:  https://github.com/geekHead-DD/cryptpic
+ Give it a star on github:  https://github.com/srijon11421/HashSnap
 ```
 
 ### For decrypting an image encryptedImage.png with its key key.txt to decryptedImage.png
@@ -92,7 +92,7 @@ cryptpic -d cipher.png -k key.txt -i unlocked.png
 output
 
 ```sh
- cryptpic  v1.0.6 by geekHead-DD
+ cryptpic  v1.0.6 by srijon11421
 An image encryption node-js cli
 
 ✔ Image read successfully
@@ -104,7 +104,7 @@ An image encryption node-js cli
 
                         Decrypted Image: decryptedImage.png
 
- Give it a star on github:  https://github.com/geekHead-DD/cryptpic
+ Give it a star on github:  https://github.com/srijon11421/HashSnap
 ```
 
 ## Limitations
