@@ -1,10 +1,10 @@
-# CryptPic
+# HashSnap
 
 A CLI that encrypts and decrypts png, jpg, jpeg images to a gibberish image and provides you the key to unlock it later so that you have the complete control of your images.
 
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/srijon11421/hashsnap?style=for-the-badge)&nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/srijon11421/cryptpic?logo=github&style=for-the-badge)
-![npm](https://img.shields.io/npm/dt/cryptpic?style=for-the-badge&logo=npm)
+![GitHub Repo stars](https://img.shields.io/github/stars/srijon11421/hashsnap?logo=github&style=for-the-badge)
+![npm](https://img.shields.io/npm/dt/hashsnap?style=for-the-badge&logo=npm)
 
 ## Tech-Stack
 
@@ -23,13 +23,13 @@ npm i -g hashsnap
 ## Usage
 
 ```sh
-cryptpic <command> [option]
+hashsnap <command> [option]
 ```
 
 or run it directly using npx
 
 ```sh
-npx cryptpic <command> [option]
+npx hashsnap <command> [option]
 ```
 
 ### commands
