@@ -3,7 +3,7 @@
 A CLI that encrypts and decrypts png, jpg, jpeg images to a gibberish image and provides you the key to unlock it later so that you have the complete control of your images.
 
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/geekHead-DD/cryptpic?style=for-the-badge)&nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/geekHead-DD/cryptpic?logo=github&style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/srijon11421/cryptpic?logo=github&style=for-the-badge)
 ![npm](https://img.shields.io/npm/dt/cryptpic?style=for-the-badge&logo=npm)
 
 ## Tech-Stack

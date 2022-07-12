@@ -1,0 +1,22 @@
+{
+  "name": "hashsnap",
+  "version": "1.0.1",
+  "description": "A CLI that encrypts and decrypts png, jpg, jpeg images to a gibberish image and provides you the key to unlock it later so that you have the complete control of your images.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srijon11421/HashSnap.git"
+  },
+  "author": "Srijon Dutta Chowdhury",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srijon11421/HashSnap/issues"
+  },
+  "homepage": "https://github.com/srijon11421/HashSnap#readme",
+  "dependencies": {
+    "user": "^0.0.0"
+  }
+}
